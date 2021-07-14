@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification",{Title="Chillware",Text="Loaded."})
+wait(1)
+game.StarterGui:SetCore("SendNotification",{Title="Chillware",Text="Press [Insert] to close/open menu"})
+wait(1)
+game.StarterGui:SetCore("SendNotification",{Title="Chillware",Text="Made By Tatar0071 And V2ROBLOX"})
